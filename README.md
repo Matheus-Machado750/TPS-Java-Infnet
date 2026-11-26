@@ -78,7 +78,7 @@ TPs-Java-INFNET/
 ```
 
 ## 📃 Observações
-Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina de Java.
+Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina de Fundamentos de desenvolvimento com Java.
 
 As soluções refletem os conhecimentos trabalhados durante a realização dos Testes de Performance e foram construídas com foco na aplicação prática dos conceitos estudados, respeitando o nível de complexidade esperado para cada etapa da formação.
 
